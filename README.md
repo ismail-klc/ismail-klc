@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Vuejs <br>
 - 📫 How to reach me: ismail000728@gmail.com
 
-<h4 align="center"><samp> <img src="https://visitor-badge.glitch.me/badge?page_id=ismail-klc&left_color=red&right_color=red" /> </samp></h4>
-
 <!--
 **ismail-klc/ismail-klc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
