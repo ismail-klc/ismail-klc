@@ -1,7 +1,13 @@
 <h4><samp> Hi there 👋🏾  Welcome to my Github! I am İsmail, I am interested in fullstack software development.</samp></h4>
 - 🔭 I’m currently working on Nodejs, React, .Net  <br>
 - 🌱 I’m currently learning Vuejs <br>
-- 📫 How to reach me: ismail000728@gmail.com
+- 📫 How to reach me: ismail000728@gmail.com 
+
+<hr>
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-klc&layout=compact&hide=jupyter%20notebook&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=ismail-klc&show_icons=true&theme=dark&locale=en">
+</div>
 
 <!--
 **ismail-klc/ismail-klc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
